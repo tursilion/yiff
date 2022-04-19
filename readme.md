@@ -29,6 +29,8 @@ To RUN it: in Windows 95, start a DOS session, go to the directory and type 'YIF
 
 IF you don't have Win95, install the CSDPMI program and run CWSDPMI before you run YIFF.EXE.
 
+Someone once ported it to Linux, but I don't possess that port anymore.
+
 You will first be presented with the main menu, with the following options:
 
 D)emo - watch the computer play against itself. Wait for the end or press ESC and 'R' to return to the menu.
